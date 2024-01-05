@@ -17,10 +17,10 @@ Here is the dashboard I have created using [Tableau](https://public.tableau.com/
 | Sales |
 | ----------- |
 |![Sales](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Sales.png)|
-**| Profit |**
+| Profit |
 | ----------- |
 |![Profit](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Profit.png)|
-**| Quantity |**
+| Quantity |
 | ----------- |
 |![Quantity](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Quantity.png)|
 
