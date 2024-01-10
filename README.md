@@ -8,7 +8,7 @@
 
 ## Introduction
 This visualization project aimed to visualize and analyze insights into fictitious superstore sales for 4 years between 2014-2017. 
-Business Questions:
+<br> Business Questions:
 - What are the KPIs?
 - What are the total sales earned by the states and regions?
 - What is the company's performance trend monthly by each year?
@@ -25,11 +25,11 @@ The dashboard created below provides an interactive view of sales, profit, and q
 Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/SuperstoreSales_17036535860750/DashboardV22):
 | Sales |
 | ----------- |
-|![Sales](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Sales.png)|
+|![Sales](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/a38f723c4e6314c460218ff8a2de5a2ad03e91dc/Dashboard%20Sales.png)|
 | Profit |
-|![Profit](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Profit.png)|
+|![Profit](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/a38f723c4e6314c460218ff8a2de5a2ad03e91dc/Dashboard%20Profit.png)|
 | Quantity |
-|![Quantity](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/8f1c196e45fc1022bdfcd26d60f0b56ee11a76cf/Quantity.png)|
+|![Quantity](https://github.com/alfi0120/Superstore-Sales-Dashboard/blob/a38f723c4e6314c460218ff8a2de5a2ad03e91dc/Dashboard%20Quantity.png)|
 
 ## Analysis
 From the dashboard above, there are many insights that we can get:
