@@ -7,12 +7,21 @@
 - [Analysis](#Analysis)
 
 ## Introduction
-
+This visualization project aimed to visualize and analyze insights into fictitious superstore sales for 4 years between 2014-2017. 
+Business Questions:
+- What are the KPIs?
+- What are the total sales earned by the states and regions?
+- What is the company's performance trend monthly by each year?
+- Which category generates the most sales and profit?
+- Which sub-categories product has the best selling record?
+- Which segment is bringing in the most profit?
+- Which ship mode is the most preferred among customers?
 
 ## Data Source
 The dataset for this task was obtained by [Tableau](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) 
 
 ## Data Visualization
+The dashboard created below provides an interactive view of sales, profit, and quantity data of selected regions by each year which allows users to explore the data.   
 Here is the dashboard I have created using [Tableau](https://public.tableau.com/app/profile/nur.alfi.laily/viz/SuperstoreSales_17036535860750/DashboardV22):
 | Sales |
 | ----------- |
@@ -24,4 +33,10 @@ Here is the dashboard I have created using [Tableau](https://public.tableau.com/
 
 ## Analysis
 From the dashboard above, there are many insights that we can get:
-- 
+- Over the past four years (2014-2017), the superstore gained $2,297,201 in sales and a profit of only $286,397.
+- The West region contributed the most sales by earning $725,458 of sales followed by the East region, Central region, and South region while California, New York, and Texas were the top 3 states that contributed the most sales and profit to the company which respectively from the West, East, and Central region. Moreover, Washington comes after the top 3 states that have the most sales and profit that contributed to the highest sales region, the West.
+- Sales patterns always fluctuated over the years, peaked towards the end of the year, and decreased during mid-year.
+- The Technology category emerged as the leading contributor to sales and profit within the Phones sub-category as the top sales and Copiers as the most profitable for the category.
+- An intriguing observation on the Furniture category reveals that despite being the second highest sales, it yields the lowest profit among the three categories. Specifically, the Tables and Bookcases sub-category resulted in a loss for the company instead of generating profit.
+- The Customer segment stands out as the most financially rewarding segment for the superstore.
+- Most customers preferred Standard Class shipping.
