@@ -5,6 +5,7 @@
 - [Data Source](#Data-Source)
 - [Data Visualization](#Data-Visualization)
 - [Analysis](#Analysis)
+- [Recommendations](#Recommendations)
 
 ## Introduction
 This visualization project aimed to visualize and analyze insights into fictitious superstore sales for 4 years between 2014-2017. 
@@ -40,3 +41,7 @@ From the dashboard above, there are many insights that we can get:
 - An intriguing observation on the Furniture category reveals that despite being the second highest sales, it yields the lowest profit among the three categories. Specifically, the Tables and Bookcases sub-category resulted in a loss for the company instead of generating profit.
 - The Customer segment stands out as the most financially rewarding segment for the superstore.
 - Most customers preferred Standard Class shipping.
+
+## Recommendations
+- Superstore should implement tailored marketing strategies based on the sales performances in various regions.
+- Given the peak in sales towards the year's end, consider launching a special campaign tailored for this season.
