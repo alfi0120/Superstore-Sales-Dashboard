@@ -9,7 +9,7 @@
 
 ## Introduction
 This visualization project aimed to visualize and analyze insights into fictitious superstore sales for 4 years between 2014-2017. 
-<br> Business Questions:
+<br> **Business Questions:**
 - What are the KPIs?
 - What are the total sales earned by the states and regions?
 - What is the company's performance trend monthly by each year?
@@ -39,9 +39,12 @@ From the dashboard above, there are many insights that we can get:
 - Sales patterns always fluctuated over the years, peaked towards the end of the year, and decreased during mid-year.
 - The Technology category emerged as the leading contributor to sales and profit within the Phones sub-category as the top sales and Copiers as the most profitable for the category.
 - An intriguing observation on the Furniture category reveals that despite being the second highest sales, it yields the lowest profit among the three categories. Specifically, the Tables and Bookcases sub-category resulted in a loss for the company instead of generating profit.
-- The Customer segment stands out as the most financially rewarding segment for the superstore.
-- Most customers preferred Standard Class shipping.
+- The Consumer segment stands out as the most financially rewarding segment for the superstore.
+- The majority of customers opt for Standard Class shipping, indicating a prevalent cost-saving strategy among the customers.
 
 ## Recommendations
 - Superstore should implement tailored marketing strategies based on the sales performances in various regions.
 - Given the peak in sales towards the year's end, consider launching a special campaign tailored for this season.
+- Considering the high sales and profitability of Phones sub-category, expanding the introduction or increasing the promotion of this sub-category would be a logical step.
+- Conducting a thorough analysis of the issue in the Tables and Bookcases sub-category is crucial to prevent financial losses for the company.
+- Leverage the Consumer segment as the primary focus for targeted campaigns, as most of customers belong to this segment.
